@@ -3,7 +3,7 @@ Repository for IMT MLIOT 2024 class
 
 # Communication
 
-[Webex link](https://imt-atlantique.webex.com/meet/MSc-IT) -  1637531562 
+[Webex link](https://imt-atlantique.webex.com/meet/MSc-IT) -  https://imt-atlantique.webex.com/meet/MSc-IT - 1637531562 
 
 
 #2024 Schedule
@@ -26,7 +26,7 @@ Jan 24th, 13:45 - 15:00 lecture, 15:!50 - 16:30 TP
 
 # Session 1 - Jan 10th
 
-* [ML and embeded systems](https://github.com/jhenry-github/MLIOT-2024-content/blob/main/slides/MLIOT1/index.html)
+* [ML and embeded systems](https://github.com/jhenry-github/MLIOT-2024-content/blob/main/slides/MLIOT1/#/1)
 	
 
 
