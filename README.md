@@ -26,7 +26,7 @@ Jan 24th, 13:45 - 15:00 lecture, 15:!50 - 16:30 TP
 
 # Session 1 - Jan 10th
 
-* [ML and embeded systems](https://github.com/jhenry-github/MLIOT-2024-content/blob/main/slides/MLIOT1/#/1)
+* [ML and embeded systems](https://github.com/jhenry-github/MLIOT-2024-content/blob/main/slides/MLIOT1/#/2)
 	
 
 
