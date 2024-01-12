@@ -33,5 +33,15 @@ Jan 24th, 13:45 - 15:00 lecture, 15:!50 - 16:30 TP
 
 
 * [Session 1 TP](https://github.com/jhenry-github/MLIOT-2024-content/blob/main/TPs/1-Linear%20REgression.md)
- * A possible [solution](https://github.com/jhenry-github/MLIOT-2024-content/blob/main/TPs/1-%20Linear%20Regression%20solved.ipynb)
+  * A possible [solution](https://github.com/jhenry-github/MLIOT-2024-content/blob/main/TPs/1-%20Linear%20Regression%20solved.ipynb)
 	
+
+# Session 2 - Jan 12th
+
+* [Frameworks, Supervised Learning]()
+  * The main AIMl frameworks
+  * Logistic Regression
+  * SVM
+  
+* [Session 2 TP](https://github.com/jhenry-github/MLIOT-2024-content/blob/main/TPs/2%20-%20multivariate%20and%20logistic%20regressions.md)
+
