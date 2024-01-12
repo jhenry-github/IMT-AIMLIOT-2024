@@ -27,11 +27,11 @@ Jan 24th, 13:45 - 15:00 lecture, 15:!50 - 16:30 TP
 # Session 1 - Jan 10th
 
 * [ML and embeded systems, Supervised Learning](https://rawcdn.githack.com/jhenry-github/MLIOT-2024-content/6cf74b27e81f94fac800e333abb3db1ab1c0fe1f/slides/MLIOT1/index.html)
-	**Evolution of AIML computation model
-  	** Linear regression principles 
+  * Evolution of AIML computation model
+  * Linear regression principles 
 	
 
 
 * [Session 1 TP](https://github.com/jhenry-github/MLIOT-2024-content/blob/main/TPs/1-Linear%20REgression.md)
-* * A possible [solution](https://github.com/jhenry-github/MLIOT-2024-content/blob/main/TPs/1-%20Linear%20Regression%20solved.ipynb)
+ * A possible [solution](https://github.com/jhenry-github/MLIOT-2024-content/blob/main/TPs/1-%20Linear%20Regression%20solved.ipynb)
 	
