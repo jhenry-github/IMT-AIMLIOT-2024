@@ -22,7 +22,6 @@ Jan 19th, 13:45 - 15:00 lecture, 15:!50 - 16:30 TP
 
 Jan 23rd, 13:45 - 15:00 lecture, 15:!50 - 16:30 TP
 
-Jan 24th, 13:45 - 15:00 lecture, 15:!50 - 16:30 TP 
 
 # Session 1 - Jan 10th
 
@@ -38,10 +37,20 @@ Jan 24th, 13:45 - 15:00 lecture, 15:!50 - 16:30 TP
 
 # Session 2 - Jan 12th
 
-* [Frameworks, Supervised Learning]()
+* [Frameworks, Supervised Learning](https://rawcdn.githack.com/jhenry-github/MLIOT-2024-content/fc64ea728db70c28beff820b7963ce135df8f33e/slides/MLIOT2/index.html)
   * The main AIMl frameworks
   * Logistic Regression
   * SVM
   
 * [Session 2 TP](https://github.com/jhenry-github/MLIOT-2024-content/blob/main/TPs/2%20-%20multivariate%20and%20logistic%20regressions.md)
+
+
+# Session 3 - Jan 16th
+
+* [Decision Trees, Unsupervised Learning]()
+  * Random Forests
+  * K-Means
+  * DBSCAN
+  
+* [Session 3 TP](https://github.com/jhenry-github/MLIOT-2024-content/blob/main/TPs/3%20-%20Logistic%20regression%20-%20tensor%20flow.md)
 
