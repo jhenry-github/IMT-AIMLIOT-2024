@@ -47,10 +47,39 @@ Jan 23rd, 13:45 - 15:00 lecture, 15:!50 - 16:30 TP
 
 # Session 3 - Jan 16th
 
-* [Decision Trees, Unsupervised Learning]()
+* [Decision Trees, Unsupervised Learning](https://rawcdn.githack.com/jhenry-github/MLIOT-2024-content/fc64ea728db70c28beff820b7963ce135df8f33e/slides/MLIOT3/index.html)
   * Random Forests
   * K-Means
   * DBSCAN
   
 * [Session 3 TP](https://github.com/jhenry-github/MLIOT-2024-content/blob/main/TPs/3%20-%20Logistic%20regression%20-%20tensor%20flow.md)
+
+
+# Session 4 - Jan 17th
+
+* [Neural networks]()
+  * Perceptrons
+  * ANNs
+  * CNNs
+  
+* [Session 4 TP](https://github.com/jhenry-github/MLIOT-2024-content/blob/main/TPs/4-rock_paper_scissor.md)
+
+
+# Session 5 - Jan 18th
+
+* [Dimension reduction, Bayes, embedded systems]()
+  * PCA
+  * Bayes
+  * Running AIML on embedded systems
+  
+* [Session 5 TP]()
+
+
+
+
+
+
+
+
+
 
