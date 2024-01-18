@@ -57,7 +57,7 @@ Jan 23rd, 13:45 - 15:00 lecture, 15:!50 - 16:30 TP
 
 # Session 4 - Jan 17th
 
-* [Neural networks]()
+* [Neural networks](https://rawcdn.githack.com/jhenry-github/MLIOT-2024-content/52b14cc6e0b5ed642fdf391bad5d3f8037ddf959/slides/MLIOT5/index.html)
   * Perceptrons
   * ANNs
   * CNNs
@@ -67,14 +67,22 @@ Jan 23rd, 13:45 - 15:00 lecture, 15:!50 - 16:30 TP
 
 # Session 5 - Jan 18th
 
+* [CNNs, LLMs](https://rawcdn.githack.com/jhenry-github/MLIOT-2024-content/52b14cc6e0b5ed642fdf391bad5d3f8037ddf959/slides/MLIOT6/index.html)
+  * CNNs
+  * LSTMs
+  * LLMs
+  
+* [Session 5 TP](https://github.com/jhenry-github/MLIOT-2024-content/blob/main/TPs/6%20-%20Neural%20Network%20Training.md)
+
+
+# Session 6 - Jan 19th
+
 * [Dimension reduction, Bayes, embedded systems]()
   * PCA
   * Bayes
   * Running AIML on embedded systems
   
 * [Session 5 TP]()
-
-
 
 
 
