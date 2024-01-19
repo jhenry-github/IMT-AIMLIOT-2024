@@ -82,7 +82,7 @@ Jan 23rd, 13:45 - 15:00 lecture, 15:!50 - 16:30 TP
   * Bayes
   * Running AIML on embedded systems
   
-* [Session 5 TP]()
+* [Session 6 TP](https://github.com/jhenry-github/MLIOT-2024-content/blob/main/TPs/5%20-%20human%20face%20detection%20and%20recognition.md)
 
 
 
