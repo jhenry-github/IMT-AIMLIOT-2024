@@ -77,12 +77,23 @@ Jan 23rd, 13:45 - 15:00 lecture, 15:!50 - 16:30 TP
 
 # Session 6 - Jan 19th
 
-* [Dimension reduction, Bayes, embedded systems]()
+* [Dimension reduction, Bayes, embedded systems](https://rawcdn.githack.com/jhenry-github/MLIOT-2024-content/3348f0e6598afb7488ed9aa449ca56d6bcefc55f/slides/MLIOT4/index.html)
   * PCA
   * Bayes
   * Running AIML on embedded systems
   
 * [Session 6 TP](https://github.com/jhenry-github/MLIOT-2024-content/blob/main/TPs/5%20-%20human%20face%20detection%20and%20recognition.md)
+
+
+# Session 7 - Jan 23rd
+
+* [Succesfully running a project](https://github.com/jhenry-github/MLIOT-2024-content/blob/main/slides/MLIOT8/index.html)
+  * Scoping
+  * Teams
+  * Platforms
+  
+* [Session 6  TP, from slide 28](https://github.com/jhenry-github/MLIOT-2024-content/blob/main/slides/MLIOT7/README.md)
+
 
 
 
