@@ -92,7 +92,7 @@ Jan 23rd, 13:45 - 15:00 lecture, 15:!50 - 16:30 TP
   * Teams
   * Platforms
   
-* [Session 6  TP, from slide 28](https://github.com/jhenry-github/MLIOT-2024-content/blob/main/slides/MLIOT7/README.md)
+* [Session 6  TP, from slide 28](https://github.com/jhenry-github/MLIOT-2024-content/blob/main/slides/MLIOT7/index.html)
 
 
 
